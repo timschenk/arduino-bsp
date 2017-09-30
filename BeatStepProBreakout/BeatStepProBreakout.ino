@@ -1,7 +1,9 @@
 /**
 * a simple breakout box for Arturia Beatstep Pro
 *
-* it uses https://github.com/wizard97/ArduinoRingBuffer
+* it uses
+*
+* https://github.com/wizard97/ArduinoRingBuffer
 *
 * @author tim schenk http://www.tim-schenk.de/
 */
