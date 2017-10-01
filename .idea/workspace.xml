@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a739b26-e79b-4714-a94e-fc6655ce373f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/Embedded_RingBuf_CPP-master.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hardware/RBTNK-BSP_v0.0.2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/Embedded_RingBuf_CPP-master/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/Embedded_RingBuf_CPP-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/Embedded_RingBuf_CPP-master/RingBufCPP.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/Embedded_RingBuf_CPP-master/RingBufHelpers.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/Embedded_RingBuf_CPP-master/keywords.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/Embedded_RingBuf_CPP-master/library.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/keywords.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/library.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/library.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/MIDI.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/MIDI.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/MIDI.hpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/midi_Defs.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/midi_Message.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/midi_Namespace.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/midi_RingBuffer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/midi_RingBuffer.hpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/midi_Settings.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/midi_UsbDefs.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/midi_UsbTransport.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/midi_UsbTransport.hpp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hardware/RBTNK-BSP_Schaltplan.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hardware/RBTNK-BSP.fzz" afterPath="$PROJECT_DIR$/hardware/RBTNK-BSP.fzz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BeatStepProBreakout/BeatStepProBreakout.ino" afterPath="$PROJECT_DIR$/BeatStepProBreakout/BeatStepProBreakout.ino" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="arduino-bsp.iws" />
@@ -53,21 +25,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BeatStepProBreakout.ino" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BeatStepProBreakout.ino" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BeatStepProBreakout/BeatStepProBreakout.ino">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="149.03703">
               <caret line="5" column="47" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.9444444">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.028625954">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="library.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/library.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.7058825">
+              <caret line="16" column="73" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -193,6 +175,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="BeatStepProBreakout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arduino-bsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arduino-bsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BeatStepProBreakout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arduino-bsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arduino-bsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BeatStepProBreakout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MIDI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -655,7 +677,7 @@
       <created>1506784298828</created>
       <option name="number" value="Default" />
       <updated>1506784298828</updated>
-      <workItem from="1506784300249" duration="2772000" />
+      <workItem from="1506784300249" duration="5478000" />
     </task>
     <task id="LOCAL-00001" summary="readme">
       <created>1506784990975</created>
@@ -681,15 +703,21 @@
       <option name="project" value="LOCAL" />
       <updated>1506785250291</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adds libraries, circuit layout v0.0.2">
+      <created>1506793255234</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1506793255234</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2772000" />
+    <option name="totallyTimeSpent" value="5478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1669" height="1022" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -700,7 +728,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24953903" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24953903" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -726,21 +754,14 @@
     <MESSAGE value="adds basic fritzing sketch" />
     <MESSAGE value="adds basic fritzing sketch png" />
     <MESSAGE value="edits readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="edits readme" />
+    <MESSAGE value="adds libraries, circuit layout v0.0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="adds libraries, circuit layout v0.0.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9444444">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/src/MIDI.h">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -759,8 +780,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BeatStepProBreakout/BeatStepProBreakout.ino">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="149.03703">
           <caret line="5" column="47" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeatStepProBreakout/libraries/MIDI/library.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.7058825">
+          <caret line="16" column="73" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028625954">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
           <folding />
         </state>
       </provider>
