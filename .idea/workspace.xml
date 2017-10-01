@@ -38,8 +38,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.028625954">
-              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.5152672">
+              <caret line="18" column="125" selection-start-line="18" selection-start-column="125" selection-end-line="18" selection-end-column="125" />
               <folding />
             </state>
           </provider>
@@ -677,7 +677,7 @@
       <created>1506784298828</created>
       <option name="number" value="Default" />
       <updated>1506784298828</updated>
-      <workItem from="1506784300249" duration="5478000" />
+      <workItem from="1506784300249" duration="6878000" />
     </task>
     <task id="LOCAL-00001" summary="readme">
       <created>1506784990975</created>
@@ -709,11 +709,17 @@
       <option name="project" value="LOCAL" />
       <updated>1506793255234</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changes readme">
+      <created>1506842568668</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1506842568668</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5478000" />
+    <option name="totallyTimeSpent" value="6878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1669" height="1022" extended-state="0" />
@@ -755,7 +761,8 @@
     <MESSAGE value="adds basic fritzing sketch png" />
     <MESSAGE value="edits readme" />
     <MESSAGE value="adds libraries, circuit layout v0.0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="adds libraries, circuit layout v0.0.2" />
+    <MESSAGE value="changes readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -796,8 +803,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028625954">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.5152672">
+          <caret line="18" column="125" selection-start-line="18" selection-start-column="125" selection-end-line="18" selection-end-column="125" />
           <folding />
         </state>
       </provider>
