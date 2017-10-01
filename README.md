@@ -27,10 +27,7 @@ https://github.com/wizard97/ArduinoRingBuffer
 https://github.com/FortySevenEffects/arduino_midi_library.git
 
 
-Thanks
-======
 
-to Philip Wise aka Pusherman for making board layouts
 
 
 this is just a sketch / work in progress by http://tim-schenk.de
